@@ -1,0 +1,10 @@
+# Segredos
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs locais
+*.log
+eve.json
